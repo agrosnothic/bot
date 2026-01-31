@@ -1,7 +1,7 @@
 {
   "name": "bash",
   "version": "1.0.0",
-  "description": "",
+  "description": "��#\u0000 \u0000b\u0000o\u0000t\u0000\r\u0000 \u0000",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +12,13 @@
   "type": "commonjs",
   "dependencies": {
     "discord.js": "^14.25.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agrosnothic/bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/agrosnothic/bot/issues"
+  },
+  "homepage": "https://github.com/agrosnothic/bot#readme"
 }
